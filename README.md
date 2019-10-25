@@ -1,5 +1,8 @@
 # QAapp
 
+#### Single Page Application made with Angular 7.
+
+Assists in memorizing Questions and Answers. 
 
 ## Development server
 
